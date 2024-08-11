@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fortawesome/angular-fontawesome": "^0.15.0",
+    "g": "^2.0.1"
+  }
+}
